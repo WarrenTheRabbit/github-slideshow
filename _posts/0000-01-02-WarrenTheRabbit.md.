@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+line[4].insert(witty_comment)
 Use the left arrow to go back!
